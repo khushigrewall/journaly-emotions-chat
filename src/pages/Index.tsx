@@ -11,9 +11,11 @@ const Index = () => {
           {/* Header */}
           <div className="text-center mb-8">
             <div className="flex items-center justify-center gap-2 mb-4">
-              <span className="text-sm font-medium text-journaly-terracotta tracking-wide uppercase">
-                Connect & Share
-              </span>
+              <img 
+                src="/lovable-uploads/af45a584-9a38-4d0a-ae00-1395c47976bd.png" 
+                alt="Connect & Share" 
+                className="h-8 md:h-10"
+              />
             </div>
             
             <h2 className="text-3xl md:text-4xl font-bold text-journaly-brown mb-4 leading-tight">
